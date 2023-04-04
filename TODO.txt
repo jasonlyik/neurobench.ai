@@ -1,0 +1,5 @@
+Files to change from MLSensors project:
+- index.md is the homepage, edit all info
+- Navigation should send to correct whitepaper link
+- Supporters removed
+- add neurobench banner, some logo maybe?
