@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Sensors"
+title: "Collaborative, Fair, and Representative Benchmarks for Neuromorphic Computing"
 layout: splash
 permalink: 
 date:
