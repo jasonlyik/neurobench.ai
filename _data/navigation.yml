@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Whitepaper"
+    url: "https://arxiv.org/abs/2206.03266"
+  - title: "GitHub"
+    url: "https://github.com/harvard-edge/ML-Sensors"
+  - title: "Email"
+    url: "mailto:ml-sensors@googlegroups.com"
+  - title: "Team"
+    url: "/team"
