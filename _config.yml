@@ -12,7 +12,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 title: Neurobench
 email: neurobench@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Neurobench
+  Benchmarks for Neuromorphic Computing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
@@ -21,9 +21,9 @@ github_username:  jasonlyik
 locale                   : "en-US"
 title                    : "Neurobench"
 title_separator          : "-"
-subtitle                 : "Neurobench"
+subtitle                 : "Benchmarks for Neuromorphic Computing"
 name                     : "Neurobench"
-description              : "Neurobench"
+description              : "Benchmarks for Neuromorphic Computing"
 url                      : "https://jasonlyik.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/neurobench.ai" # the subpath of your site, e.g. "/blog"
 repository               : "jasonlyik/neurobench.ai" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -89,15 +89,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-NBXX49FRJY"
-    anonymize_ip         : false # true, false (default)
+  provider               : false
+  # provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  # google:
+  #   tracking_id          : "G-NBXX49FRJY"
+  #   anonymize_ip         : false # true, false (default)
 
 
 # Site Author
 author:
-  name             : "MLSensors"
+  name             : "NeuroBench"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : ""
@@ -117,7 +118,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jasonlyik/neurobench.ai"
+      url: "https://github.com/neurobench"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
