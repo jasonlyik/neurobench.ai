@@ -9,24 +9,24 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MLSensors
-email: ml-sensors@googlegroups.com
+title: Neurobench
+email: neurobench@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Machine Learning Sensors
+  Neurobench
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
-github_username:  ml-sensors
+github_username:  jasonlyik
 
 locale                   : "en-US"
-title                    : "MLSensors"
+title                    : "Neurobench"
 title_separator          : "-"
-subtitle                 : "Machine Learning Sensors"
-name                     : "MLSensors"
-description              : "Machine Learning Sensors"
-url                      : "https://ml-sensors.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "Neurobench"
+name                     : "Neurobench"
+description              : "Neurobench"
+url                      : "https://jasonlyik.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ml-sensors/ml-sensors.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jasonlyik/neurobench.ai" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -105,7 +105,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ml-sensors@googlegroups.com"
+      url: "mailto:neurobench@googlegroups.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -117,7 +117,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/harvard-edge/ML-Sensors"
+      url: "https://github.com/jasonlyik/neurobench.ai"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -133,7 +133,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:  "https://github.com/harvard-edge/ML-Sensors"
+      url:  "https://github.com/jasonlyik/neurobench.ai"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
