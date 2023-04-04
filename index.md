@@ -6,7 +6,7 @@ date:
 header:
   overlay_color: "#00A"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banner.png
+<!--   overlay_image: /assets/images/banner.png -->
   actions:
     # - label: "To learn more about our approach, check out our whitepaper on arXiv"
     #   url: "https://arxiv.org/abs/2206.03266"
