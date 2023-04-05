@@ -4,12 +4,12 @@ layout: splash
 permalink: 
 date:
 header:
-  overlay_color: "#00A"
+  overlay_color: "#777"
   overlay_filter: "0.5"
   overlay_image:
   actions:
     # - label: "To learn more about our approach, check out our whitepaper on arXiv"
-    #   url: "https://arxiv.org/abs/2206.03266"
+    #   url: "https://drive.google.com/file/d/17bCrWSyQ59hHvKkBI8gWlNX6ED-K0vbc/view?usp=sharing"
   caption: ""
 excerpt: "The NeuroBench project aims to drive progress in neuromorphic computing by defining benchmarks for neuromorphic algorithms and systems."
 
@@ -35,3 +35,5 @@ challenges:
 ---
 
 # Under Construction
+
+To learn more, please see our [whitepaper preprint](https://drive.google.com/file/d/17bCrWSyQ59hHvKkBI8gWlNX6ED-K0vbc/view?usp=sharing).
