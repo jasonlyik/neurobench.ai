@@ -9,7 +9,7 @@ header:
   overlay_image:
   actions:
     # - label: "To learn more about our approach, check out our whitepaper on arXiv"
-    #   url: "https://drive.google.com/file/d/17bCrWSyQ59hHvKkBI8gWlNX6ED-K0vbc/view?usp=sharing"
+    #   url: "https://drive.google.com/file/d/1_4H7X8cSSGfDoHubb7cdAQ48VxhJdOAA/view?usp=sharing"
   caption: ""
 excerpt: "The NeuroBench project aims to drive progress in neuromorphic computing by defining benchmarks for neuromorphic algorithms and systems."
 
@@ -36,4 +36,4 @@ challenges:
 
 # Under Construction
 
-To learn more, please see our [whitepaper preprint](https://drive.google.com/file/d/1qjh-yFHt7Skth1gwGo2QEY_jEydFTj7s/view?usp=sharing).
+To learn more, please see our [whitepaper preprint](https://drive.google.com/file/d/1_4H7X8cSSGfDoHubb7cdAQ48VxhJdOAA/view?usp=sharing).
