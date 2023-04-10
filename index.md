@@ -36,4 +36,4 @@ challenges:
 
 # Under Construction
 
-To learn more, please see our [whitepaper preprint](https://drive.google.com/file/d/17bCrWSyQ59hHvKkBI8gWlNX6ED-K0vbc/view?usp=sharing).
+To learn more, please see our [whitepaper preprint](https://drive.google.com/file/d/1qjh-yFHt7Skth1gwGo2QEY_jEydFTj7s/view?usp=sharing).
