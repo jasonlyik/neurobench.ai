@@ -34,6 +34,10 @@ challenges:
 
 ---
 
-# Under Construction
+# Whitepaper
 
-To learn more, please see our [whitepaper preprint](https://drive.google.com/file/d/1_4H7X8cSSGfDoHubb7cdAQ48VxhJdOAA/view?usp=sharing).
+To learn more, please see our [whitepaper preprint](https://arxiv.org/abs/2304.04640).
+
+# Get Involved
+
+To be involved with the NeuroBench community and benchmark project, please join our [mailing list](https://groups.google.com/g/neurobench).
