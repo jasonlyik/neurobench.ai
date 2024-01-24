@@ -11,7 +11,7 @@ header:
     # - label: "To learn more about our approach, check out our whitepaper on arXiv"
     #   url: "https://drive.google.com/file/d/1_4H7X8cSSGfDoHubb7cdAQ48VxhJdOAA/view?usp=sharing"
   caption: ""
-excerpt: "The NeuroBench project aims to drive progress in neuromorphic computing by defining benchmarks for neuromorphic algorithms and systems."
+excerpt: "NeuroBench is a framework for benchmarking neuromorphic computing algorithms and systems."
 
 sponsors_intro: 
   - title: "Thanks to our lead supporters:"
@@ -34,9 +34,13 @@ challenges:
 
 ---
 
-# Whitepaper
+# NeuroBench v1.0 Preprint
 
-To learn more, please see our [whitepaper preprint](https://arxiv.org/abs/2304.04640).
+NeuroBench v1.0 includes four defined algorithm benchmarks, algorithmic complexity metric definitions, and algorithm baseline results. System track benchmarks are defined and baselines are currently under development. To learn more, please see our [submission preprint](https://arxiv.org/abs/2304.04640).
+
+# NeuroBench Harness
+
+The NeuroBench harness is an open-source Python package that allows users to easily run the benchmarks and extract useful metrics. Check out the package on [GitHub](https://github.com/NeuroBench/neurobench) and its [documentation](https://neurobench.readthedocs.io/en/latest/).
 
 # Get Involved
 

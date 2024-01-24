@@ -1,9 +1,9 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "Whitepaper"
+  - title: "Preprint"
     url: "https://arxiv.org/abs/2304.04640"
   - title: "GitHub"
-    url: "https://github.com/neurobench"
+    url: "https://github.com/neurobench/neurobench"
   - title: "Email"
     url: "mailto:neurobench@googlegroups.com"
